@@ -1,4 +1,5 @@
 Assignment - 1
 
 Q. 1: Create an HTML Form containing a user registration form with having fields like username, password, re-type password, first name, last name, email address, mobile number, submit button, reset button.
-
+Q. 2: Creat an HTML page containing a table having two rows and two columns. In each cell, you are supposed to embed YouTube Videos on HTML tutorial. 
+Q. 3: Creat an HTML page containing at least an image, an embedded audio/video file, and user feedback form (fields: username, feedback, date, submit button)
