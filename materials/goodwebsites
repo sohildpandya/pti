@@ -2,7 +2,9 @@ MDN Web Docs https://developer.mozilla.org/en-US/
 
 https://htmlcheatsheet.com/
 
+------------------
 Day-1 (22/01/2022)
+------------------
 
 <audio>: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio
 
@@ -15,3 +17,54 @@ Semantics: https://www.w3schools.com/html/html5_semantic_elements.asp
 Form Element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form
 
 Input Element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+
+------------------
+Day-2 (29/01/2022)
+------------------
+
+What is CSS?
+- CSS stands for Cascading Style Sheets
+- CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+- CSS saves a lot of work. It can control the layout of multiple web pages all at once
+- External stylesheets are stored in CSS files
+
+Why Use CSS?
+CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.
+
+CSS Syntax
+
+A CSS rule consists of a selector and a declaration block.
+
+The selector points to the HTML element you want to style. The declaration block contains one or more declarations separated by semicolons. 
+Each declaration includes a CSS property name and a value, separated by a colon. Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces.
+
+p {
+  color: red;
+  text-align: center;
+}
+
+- Element selector
+- ID selector
+- Class selector
+- Universal selector
+- Grouping selector
+
+
+Three Ways to Insert CSS
+- External CSS
+- Internal CSS
+- Inline CSS
+
+CSS Comments
+/* This is a comment */
+
+CSS Background
+  - background-color
+  - background-image
+  - background-image
+  - background-attachment
+  - background-position
+  - background (shorthand)
+  
+   - opacity
+   
