@@ -91,3 +91,31 @@ The border-color property is used to set the color of the four borders.
 
 The border-radius property is used to add rounded borders to an element.
 
+------------------
+Day-3 (26/02/2022)
+------------------
+
+CSS Margins: margin-top, margin-right, margin-bottom, margin-left
+
+CSS Padding: padding-top, padding-right, padding-bottom, padding-left
+
+CSS Height/Width
+
+The CSS Box Model
+
+CSS Outline: Outline, Outline Width, Outline Color, Outline Shorthand, Outline Offset
+
+CSS Text: color, background-color, text-align (left, right, center, justify), text-align-last (left, right, center, justify), 
+direction, vertical-align (baseline, text-top, text-bottom, sub, super), text-decoration-line (overline, line-through, underline, overline underline),
+text-decoration-color, text-transform (uppercase, lowercase, capitalize), text-indent, letter-spacing, line-height, word-spacing, white-space,
+text-shadow (horizontal shadow, vertical shadow, blur effect,color)
+
+CSS Font: (Serif, Sans-serif, Monospace, Cursive, Fantasy) font-family, websafe
+
+
+
+
+
+
+
+
