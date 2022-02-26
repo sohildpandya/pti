@@ -110,7 +110,9 @@ direction, vertical-align (baseline, text-top, text-bottom, sub, super), text-de
 text-decoration-color, text-transform (uppercase, lowercase, capitalize), text-indent, letter-spacing, line-height, word-spacing, white-space,
 text-shadow (horizontal shadow, vertical shadow, blur effect,color)
 
-CSS Font: (Serif, Sans-serif, Monospace, Cursive, Fantasy) font-family, websafe
+CSS Font: (Serif, Sans-serif, Monospace, Cursive, Fantasy) font-family, websafe, font-style (normal, italic, oblique), font-variant (normal, small-caps), font-size
+
+Google Fonts: <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia"> 
 
 
 
